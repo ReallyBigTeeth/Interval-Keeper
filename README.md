@@ -15,3 +15,4 @@ Upon running the application you will be asked to input the details of your firs
 
 One you have finished entering the details of your first set of intervals or segment, you will be prompted to enter the details for a second segment or set of intervals.  You can create as many sets as you like.  If you are ready to start your workout, hit <ENTER> throught the next set of questions until you are prompted with the description of your first interval set.  Hit <ENTER> again and your fist interval will begin after a 5 second count down.  Four tones will sound just before the begining of each rest or on segment and series of tones to let you know when the current segment or set of intervals is complete.  The program will then pause and display the description of the next segment or set of intervals.  Hit enter to continue.
 
+ReallyBigTeeth
